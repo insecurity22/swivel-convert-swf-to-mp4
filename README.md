@@ -21,7 +21,7 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 
 
-일일히 안해도됌ㅁㅁㅁㅁㅁㅁㅁㅁㅁ 하루만에 뚞딲뚞딲
+일일히 안해도됌ㅁㅁㅁㅁㅁㅁㅁㅁㅁ 몇 시간만ㅇㅔ 뚞딲뚞딲!
 
 귀찮아ㅅㅓ 만들어봄! 영상도 짤ㄴㅏ온당 ㅎ.ㅎ 
 
