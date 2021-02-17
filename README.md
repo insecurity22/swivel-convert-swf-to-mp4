@@ -25,4 +25,4 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 귀찮아ㅅㅓ 만들어봄! 영상도 짤ㄴㅏ온당 ㅎ.ㅎ 
 
-넘 재밌었ㄸ ㅏ
+오랜만에 파이썬하니 넘 재밌었ㄸ ㅏ
