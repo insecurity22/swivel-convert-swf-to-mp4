@@ -15,9 +15,9 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 3. 프로그램 실행 시, mp4 파일로 자동 변환
 
-![4](./img/4.jpg)
+![4](./img/4.JPG)
 
-![4-1](./img/4-1.jpg)
+![4-1](./img/4-1.JPG)
 
 
 
