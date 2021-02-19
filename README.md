@@ -25,6 +25,6 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 귀찮아ㅅㅓ 만들어봄! 영상도 짤ㄴㅏ온당 ㅎ.ㅎ 
 
-(근데 보안문제땜ㅅㅣ 특정 컴터에서만 사용하라하셔가꼬 그렇게했따)
+(근데 보안문제  특정 컴터에서만 사용하라하셔가꼬 그렇게했따)
 
 오랜만에 파이썬하니 넘 재밌었ㄸ ㅏ 역시 파이썬!짱!
