@@ -21,6 +21,7 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 
 
+
 # chapter
 
 1. python file을 Swivel 경로에 넣기
