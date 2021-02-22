@@ -28,11 +28,11 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 1. python file을 Swivel 경로에 넣기
 
-2. 마찬가지로 chapter, subchapter, subchapter_index 값 넣고, swf 파일 경로 설정
+2. 마찬가지로 chapter, subchapter, subchapter_index 값 넣고, swf 파일 경로/저장 경로 설정 
 
 ![5](./img/5.JPG)
 
-![6](./img/6.png)
+![6](./img/6.JPG)
 
 3. 프로그램 실행 시, mp4 파일로 자동 변환되고
 4. chapter가 끝나면 다음 chapter로 넘어감
