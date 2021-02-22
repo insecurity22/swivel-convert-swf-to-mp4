@@ -9,9 +9,9 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 2. swf 파일 경로 수정
 
-![2-1](./img/2-1.JPG)
-
 ![3](./img/3.png)
+
+![2-1](./img/2-1.JPG)
 
 3. 프로그램 실행 시, mp4 파일로 자동 변환
 
