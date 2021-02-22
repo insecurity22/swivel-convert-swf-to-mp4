@@ -38,7 +38,7 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 
 
-
+-------------------------
 
 일일히 안해도됌ㅁㅁㅁㅁㅁㅁㅁㅁㅁ 뚞딲뚞딲
 
