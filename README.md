@@ -7,7 +7,7 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 ![2](./img/2.png)
 
-2. swf 파일 경로 
+2. swf 파일 경로 설정
 
 ![3](./img/3.png)
 
