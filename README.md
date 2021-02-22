@@ -22,8 +22,6 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 
 
-
-
 # chapter
 
 1. python file을 Swivel 경로에 넣기
@@ -36,6 +34,8 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 3. 프로그램 실행 시, mp4 파일로 자동 변환되고
 4. chapter가 끝나면 다음 chapter로 넘어감
+
+
 
 
 일일히 안해도됌ㅁㅁㅁㅁㅁㅁㅁㅁㅁ 뚞딲뚞딲
