@@ -30,12 +30,11 @@ https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 
 ![5](./img/5.JPG)
 
-![6](./img/6.JPG)
-
 3. 프로그램 실행 시, mp4 파일로 자동 변환되고
 
 5. chapter가 끝나면 다음 chapter로 넘어감
 
+![6](./img/6.JPG)
 
 
 -------------------------
