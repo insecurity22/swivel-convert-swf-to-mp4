@@ -1,5 +1,5 @@
 https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
-
+https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-flash-to-video
 
 
 # simple
