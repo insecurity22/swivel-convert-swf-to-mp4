@@ -30,6 +30,7 @@ https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-fla
 ![2-1](./img/2-1.JPG)
 
 3. 프로그램 실행 시, mp4 파일로 자동 변환
+- Timeout 된 파일은 변환 X ex) 01-002.mp4
 
 ![4](./img/4.JPG)
 
