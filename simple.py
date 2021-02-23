@@ -18,7 +18,7 @@ try:
     # 폴더 파일 리스트만큼 동영상 만들기
     for l in filelist:
         cmd = 'Swivel.exe ' + swfpath + l.rstrip('.swf') + '.swf -o '\
-                + savepath + l.rstrip('.swf') + '.mp4'
+                + savepath + l.rstrip('.swf') + '.mp4 -sm letterbox'
         try:
             print(l, "저장 중")
             proc = subprocess.Popen(cmd, shell=True)
