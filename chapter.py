@@ -46,7 +46,7 @@ try:
             if not count <= subchapter_index-1:
                 if l not in blacklist:
                     # Swivel 실행
-                    cmd = 'Swivel.exe ' + swfpath + l.rstrip('.swf') + '.swf -o ' + savepath_changed + l.rstrip('.swf') + '.mp4'
+                    cmd = 'Swivel.exe ' + swfpath + l.rstrip('.swf') + '.swf -o ' + savepath_changed + l.rstrip('.swf') + '.mp4 -sm letterbox'
                     print(cmd)
                     try:
                         print(l, "저장 중")
