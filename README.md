@@ -40,11 +40,11 @@ https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-fla
 
 # change_foldername
 
-![8](./img/8.JPG)
+![8](./img/8.jpg)
 
-![9](./img/9.JPG)
+![9](./img/9.jpg)
 
-![10](./img/10.JPG)
+![10](./img/10.jpg)
 
 -------------------------
 
