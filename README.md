@@ -38,6 +38,14 @@ https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-fla
 
 
 
+# change_foldername
+
+![8](./img/8.JPG)
+
+![9](./img/9.JPG)
+
+![10](./img/10.JPG)
+
 -------------------------
 
 
