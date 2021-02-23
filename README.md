@@ -5,7 +5,9 @@ https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-fla
 
 1. python file을 Swivel 파일이 있는 경로에 넣기
 
-2. chapter, subchapter, subchapter_index 값 넣고, swf 파일 경로/저장 경로 설정 
+![2](./img/2.png)
+
+2. chapter, subchapter, subchapter_index 값, swf 파일 경로/저장 경로 설정
 
 ![5](./img/5.JPG)
 
@@ -19,9 +21,7 @@ https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-fla
 
 # simple
 
-1. python file을 Swivel 파일이 있는 경로에 넣기
-
-![2](./img/2.png)
+1. 마찬가지로 python file을 Swivel 파일이 있는 경로에 넣기
 
 2. swf 파일 경로/저장 경로 설정 
 
