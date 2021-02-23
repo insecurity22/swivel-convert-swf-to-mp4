@@ -44,7 +44,7 @@ https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-fla
 
 ![9](./img/9.jpg)
 
-![10](./img/10.jpg)
+![10](./img/10.png)
 
 -------------------------
 
