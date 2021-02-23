@@ -19,9 +19,6 @@ https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-fla
 ![6](./img/6.JPG)
 
 
--------------------------
-
-
 # simple
 1. python file을 Swivel 경로에 넣기
 
