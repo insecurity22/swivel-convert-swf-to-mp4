@@ -1,12 +1,9 @@
 https://www.davepagurek.com/blog/using-swivel-in-batch-from-the-terminal/ 참고
 https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-flash-to-video
 
-
-
-
 # chapter
 
-1. python file을 Swivel 경로에 넣기
+1. python file을 Swivel 파일이 있는 경로에 넣기
 
 2. 마찬가지로 chapter, subchapter, subchapter_index 값 넣고, swf 파일 경로/저장 경로 설정 
 
@@ -19,8 +16,10 @@ https://www.newgrounds.com/wiki/creator-resources/animation-resources/swivel-fla
 ![6](./img/6.JPG)
 
 
+
 # simple
-1. python file을 Swivel 경로에 넣기
+
+1. python file을 Swivel 파일이 있는 경로에 넣기
 
 ![2](./img/2.png)
 
