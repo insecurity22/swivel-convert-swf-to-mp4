@@ -37,8 +37,12 @@ try:
         print("mp4 파일을 저장할 경로:", savepath_changed, "\n")
 
         # 폴더 없으면 만들기
-        if not os.path.isdir(savepath_changed):
-            os.mkdir(savepath_changed)
+        if not os.path.isdir(savepath):
+            os.mkdir(savepath)
+        if not os.path.isdir(savepath+chapter):
+            os.mkdir(savepath+chapter)
+        if not os.path.isdir(savepath+chapter+'\\'+subchapter):
+            os.mkdir(savepath+chapter+'\\'+subchapter)
 
         # 폴더 파일 리스트만큼 동영상 만들기
         count = 1
