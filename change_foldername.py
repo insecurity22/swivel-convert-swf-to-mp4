@@ -71,9 +71,9 @@ def changeName(path, cName):
                     if oMiddleText == "":
                         if cMiddleText == "": os.rename(path+filename, path+cName+index+cExtension)
                         else: os.rename(path+filename, path+cName+cMiddleText+index+cExtension)
-                        print("변경되었습니다.\n")
                     else:
                         os.rename(path+filename, path+cName+cMiddleText+index+cExtension)
+                    print("변경되었습니다.\n")
                 except Exception as e:
                     print("변경되지 않았습니다.\n")
 
